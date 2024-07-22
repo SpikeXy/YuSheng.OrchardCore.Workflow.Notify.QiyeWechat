@@ -11,7 +11,6 @@ using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 
 namespace YuSheng.OrchardCore.Workflow.Notify.QiyeWechat.Activities

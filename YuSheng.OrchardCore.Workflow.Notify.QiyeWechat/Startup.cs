@@ -6,7 +6,7 @@ using YuSheng.OrchardCore.Workflow.Notify.QiyeWechat.Drivers;
 
 namespace YuSheng.OrchardCore.Workflow.Notify.QiyeWechat
 {
-    [Feature("OrchardCore.Workflows")]
+    [Feature("YuSheng.OrchardCore.Workflow.Notify.QiyeWechat")]
     public class Startup : StartupBase
     {
         public override void ConfigureServices(IServiceCollection services)

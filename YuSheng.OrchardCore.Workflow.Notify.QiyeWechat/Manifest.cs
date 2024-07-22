@@ -4,11 +4,11 @@ using OrchardCore.Modules.Manifest;
     Name = "YuSheng OrchardCore Workflow Notify QiyeWechat",
     Author = "spike",
     Website = "",
-    Version = "0.0.3"
+    Version = "0.0.4"
 )]
 
 [assembly: Feature(
-    Id = "YuSheng OrchardCore Workflow Notify QiyeWechat",
+    Id = "YuSheng.OrchardCore.Workflow.Notify.QiyeWechat",
     Name = "YuSheng OrchardCore Workflow Notify QiyeWechat",
     Description = "Provides qiyewechat notify ",
     Dependencies = new[] { "OrchardCore.Workflows" },
