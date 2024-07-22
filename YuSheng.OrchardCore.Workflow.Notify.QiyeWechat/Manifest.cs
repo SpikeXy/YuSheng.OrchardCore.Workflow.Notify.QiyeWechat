@@ -4,7 +4,7 @@ using OrchardCore.Modules.Manifest;
     Name = "YuSheng OrchardCore Workflow Notify QiyeWechat",
     Author = "spike",
     Website = "",
-    Version = "0.0.1"
+    Version = "0.0.3"
 )]
 
 [assembly: Feature(
