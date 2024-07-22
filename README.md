@@ -2,13 +2,6 @@
 
 send webhook url message by httpclient
 
----
-
-### Login account:
-
-spike
-
-P@ssw0rd
 
 ---
 
